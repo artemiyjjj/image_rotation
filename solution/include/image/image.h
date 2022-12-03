@@ -1,7 +1,7 @@
 #ifndef IMAGE_TRANSFORMER_IMAGE_H
 #define IMAGE_TRANSFORMER_IMAGE_H
-#include <stdio.h>
 #include <stdint.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 struct __attribute__((packed)) pixel {

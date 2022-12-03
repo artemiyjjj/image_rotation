@@ -2,8 +2,8 @@
 #define IMAGE_TRANSFORMER_IMAGE_OPERATIONS_H
 #include <stdio.h>
 #include "file_operations/file_operations.h"
-#include "statuse_codes/status_enums.h"
 #include "image/image.h"
+#include "statuse_codes/status_enums.h"
 
 enum read_stat read_image(enum read_stat(from_fun)(FILE *in_file, struct image *const in_image),
                           const char *in_filename, struct image *const in_image);

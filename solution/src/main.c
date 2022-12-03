@@ -1,7 +1,7 @@
-#include "statuse_codes/status_enums.h"
-#include "image/image_operations.h"
 #include "image/image_formats/from_bmp.h"
 #include "image/image_formats/to_bmp.h"
+#include "image/image_operations.h"
+#include "statuse_codes/status_enums.h"
 
 int main( int argc, char** argv ) {
     printf("\n");
