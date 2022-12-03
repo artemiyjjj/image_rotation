@@ -2,7 +2,8 @@
 #define IMAGE_TRANSFORMER_BMP_HEADER_H
 #include "stdint.h"
 
-struct __attribute__((packed))
+#pragma pack(push,1)
+struct //__attribute__((packed))
 bmp_header {
     uint16_t bfType;
     uint32_t bfileSize;
@@ -20,5 +21,5 @@ bmp_header {
     uint32_t biClrUsed;
     uint32_t biClrImportant;
 };
-
+#pragma pack(pop)
 #endif
