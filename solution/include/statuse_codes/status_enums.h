@@ -1,7 +1,6 @@
 #ifndef IMAGE_TRANSFORMER_STATUS_ENUMS_H
 #define IMAGE_TRANSFORMER_STATUS_ENUMS_H
 
-
 enum open_stat {
     OPEN_OK,
     OPEN_ERR,
