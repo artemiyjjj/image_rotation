@@ -26,3 +26,10 @@
 2	91	6917620111913248	solution/CMakeFiles/image-transformer.dir/src/main.c.obj	21e93e51ec5211b6
 91	195	6917620112920276	solution/image-transformer.exe	35b5f131760130f
 1	29	0	C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/CMakeFiles/cmake.verify_globs	60d784a952903bdb
+0	34	0	C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/CMakeFiles/cmake.verify_globs	60d784a952903bdb
+11	129	6917642668740345	solution/CMakeFiles/image-transformer.dir/src/file_operations/file_operations.c.obj	8ebed66952fea062
+6	132	6917642668756077	solution/CMakeFiles/image-transformer.dir/src/main.c.obj	21e93e51ec5211b6
+16	153	6917642669055112	solution/CMakeFiles/image-transformer.dir/src/image/image_formats/bmp/to_bmp.c.obj	67aa7b616adf83ce
+20	156	6917642669055112	solution/CMakeFiles/image-transformer.dir/src/image/image_operations.c.obj	6303e614b20610c4
+3	157	6917642669084862	solution/CMakeFiles/image-transformer.dir/src/image/image_formats/bmp/from_bmp.c.obj	d63269a8afb18cf3
+157	252	6917642670011487	solution/image-transformer.exe	35b5f131760130f
