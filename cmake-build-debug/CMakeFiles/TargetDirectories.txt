@@ -1,0 +1,12 @@
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/solution/CMakeFiles/image-transformer.dir
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/solution/CMakeFiles/test.dir
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/solution/CMakeFiles/edit_cache.dir
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/solution/CMakeFiles/rebuild_cache.dir
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/tester/CMakeFiles/image-matcher.dir
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/tester/CMakeFiles/check.dir
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/tester/CMakeFiles/test.dir
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/tester/CMakeFiles/edit_cache.dir
+C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug/tester/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,52 @@
+[
+{
+  "directory": "C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug",
+  "command": "\"D:\\UselessProgramms\\CLion 2022.2.4\\bin\\mingw\\bin\\gcc.exe\" -D_CRT_SECURE_NO_WARNINGS -IC:/Users/artem/Documents/C_assembly/lab3/solution/src -IC:/Users/artem/Documents/C_assembly/lab3/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o solution\\CMakeFiles\\image-transformer.dir\\src\\file_operations\\file_operations.c.obj -c C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\file_operations\\file_operations.c",
+  "file": "C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\file_operations\\file_operations.c"
+},
+{
+  "directory": "C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug",
+  "command": "\"D:\\UselessProgramms\\CLion 2022.2.4\\bin\\mingw\\bin\\gcc.exe\" -D_CRT_SECURE_NO_WARNINGS -IC:/Users/artem/Documents/C_assembly/lab3/solution/src -IC:/Users/artem/Documents/C_assembly/lab3/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o solution\\CMakeFiles\\image-transformer.dir\\src\\image\\image.c.obj -c C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\image\\image.c",
+  "file": "C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\image\\image.c"
+},
+{
+  "directory": "C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug",
+  "command": "\"D:\\UselessProgramms\\CLion 2022.2.4\\bin\\mingw\\bin\\gcc.exe\" -D_CRT_SECURE_NO_WARNINGS -IC:/Users/artem/Documents/C_assembly/lab3/solution/src -IC:/Users/artem/Documents/C_assembly/lab3/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o solution\\CMakeFiles\\image-transformer.dir\\src\\image\\image_formats\\bmp\\from_bmp.c.obj -c C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\image\\image_formats\\bmp\\from_bmp.c",
+  "file": "C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\image\\image_formats\\bmp\\from_bmp.c"
+},
+{
+  "directory": "C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug",
+  "command": "\"D:\\UselessProgramms\\CLion 2022.2.4\\bin\\mingw\\bin\\gcc.exe\" -D_CRT_SECURE_NO_WARNINGS -IC:/Users/artem/Documents/C_assembly/lab3/solution/src -IC:/Users/artem/Documents/C_assembly/lab3/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o solution\\CMakeFiles\\image-transformer.dir\\src\\image\\image_formats\\bmp\\to_bmp.c.obj -c C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\image\\image_formats\\bmp\\to_bmp.c",
+  "file": "C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\image\\image_formats\\bmp\\to_bmp.c"
+},
+{
+  "directory": "C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug",
+  "command": "\"D:\\UselessProgramms\\CLion 2022.2.4\\bin\\mingw\\bin\\gcc.exe\" -D_CRT_SECURE_NO_WARNINGS -IC:/Users/artem/Documents/C_assembly/lab3/solution/src -IC:/Users/artem/Documents/C_assembly/lab3/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o solution\\CMakeFiles\\image-transformer.dir\\src\\image\\image_operations.c.obj -c C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\image\\image_operations.c",
+  "file": "C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\image\\image_operations.c"
+},
+{
+  "directory": "C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug",
+  "command": "\"D:\\UselessProgramms\\CLion 2022.2.4\\bin\\mingw\\bin\\gcc.exe\" -D_CRT_SECURE_NO_WARNINGS -IC:/Users/artem/Documents/C_assembly/lab3/solution/src -IC:/Users/artem/Documents/C_assembly/lab3/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o solution\\CMakeFiles\\image-transformer.dir\\src\\main.c.obj -c C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\main.c",
+  "file": "C:\\Users\\artem\\Documents\\C_assembly\\lab3\\solution\\src\\main.c"
+},
+{
+  "directory": "C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug",
+  "command": "\"D:\\UselessProgramms\\CLion 2022.2.4\\bin\\mingw\\bin\\gcc.exe\" -D_CRT_SECURE_NO_WARNINGS -IC:/Users/artem/Documents/C_assembly/lab3/tester/src -IC:/Users/artem/Documents/C_assembly/lab3/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o tester\\CMakeFiles\\image-matcher.dir\\src\\bmp.c.obj -c C:\\Users\\artem\\Documents\\C_assembly\\lab3\\tester\\src\\bmp.c",
+  "file": "C:\\Users\\artem\\Documents\\C_assembly\\lab3\\tester\\src\\bmp.c"
+},
+{
+  "directory": "C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug",
+  "command": "\"D:\\UselessProgramms\\CLion 2022.2.4\\bin\\mingw\\bin\\gcc.exe\" -D_CRT_SECURE_NO_WARNINGS -IC:/Users/artem/Documents/C_assembly/lab3/tester/src -IC:/Users/artem/Documents/C_assembly/lab3/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o tester\\CMakeFiles\\image-matcher.dir\\src\\file_cmp.c.obj -c C:\\Users\\artem\\Documents\\C_assembly\\lab3\\tester\\src\\file_cmp.c",
+  "file": "C:\\Users\\artem\\Documents\\C_assembly\\lab3\\tester\\src\\file_cmp.c"
+},
+{
+  "directory": "C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug",
+  "command": "\"D:\\UselessProgramms\\CLion 2022.2.4\\bin\\mingw\\bin\\gcc.exe\" -D_CRT_SECURE_NO_WARNINGS -IC:/Users/artem/Documents/C_assembly/lab3/tester/src -IC:/Users/artem/Documents/C_assembly/lab3/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o tester\\CMakeFiles\\image-matcher.dir\\src\\main.c.obj -c C:\\Users\\artem\\Documents\\C_assembly\\lab3\\tester\\src\\main.c",
+  "file": "C:\\Users\\artem\\Documents\\C_assembly\\lab3\\tester\\src\\main.c"
+},
+{
+  "directory": "C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug",
+  "command": "\"D:\\UselessProgramms\\CLion 2022.2.4\\bin\\mingw\\bin\\gcc.exe\" -D_CRT_SECURE_NO_WARNINGS -IC:/Users/artem/Documents/C_assembly/lab3/tester/src -IC:/Users/artem/Documents/C_assembly/lab3/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o tester\\CMakeFiles\\image-matcher.dir\\src\\util.c.obj -c C:\\Users\\artem\\Documents\\C_assembly\\lab3\\tester\\src\\util.c",
+  "file": "C:\\Users\\artem\\Documents\\C_assembly\\lab3\\tester\\src\\util.c"
+}
+]
