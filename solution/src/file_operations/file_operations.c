@@ -7,7 +7,7 @@ enum open_stat open_file(FILE** file, const char* filename, const char* mode) {
 }
 
 enum close_stat close_file(FILE** file) {
-    if (file == NULL) { return CLOSE_ERR_NO_STREAM; }
+    if (*file == NULL) { return CLOSE_ERR_NO_STREAM; }
     else if (fclose(*file)) { return CLOSE_FAILED; }
     else return CLOSE_OK;
 }
