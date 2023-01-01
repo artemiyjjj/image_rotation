@@ -2,10 +2,15 @@
 
 struct image create_image(size_t width, size_t height) {
     struct pixel* pixel_array = malloc(sizeof(struct pixel) * width * height);
-    return (struct image) { .width = width, .height = height, .data = pixel_array };
+    return pixel_array != NULL ?
+        (struct image) { .width = width, .height = height, .data = pixel_array } :
+        (struct image) {0};
 }
 
 void free_image(struct image image) {
+    if (image.data == NULL) {
+        return;
+    }
     free(image.data);
 }
 
