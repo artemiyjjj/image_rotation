@@ -1,5 +1,0 @@
-"D:\UselessProgramms\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/UselessProgramms/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\artem\Documents\C_assembly\lab3 -B C:\Users\artem\Documents\C_assembly\lab3\cmake-build-debug
--- Clang-tidy: CLANG_TIDY-NOTFOUND
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/artem/Documents/C_assembly/lab3/cmake-build-debug
