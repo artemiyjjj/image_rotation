@@ -17,7 +17,7 @@ int main( int argc, char** argv ) {
     if (read_image_stat != READ_OK) {
         fprintf(stderr, "Can not interact with the source file");
         free_image(in_image);
-        return 1;
+        return read_image_stat;
     }
 
     const char* out_filename = argv[2];
@@ -27,10 +27,8 @@ int main( int argc, char** argv ) {
 
     if (write_image_stat != WRITE_OK) {
         fprintf(stderr, "Can not interact with the output file.");
-        free_image(out_image);
-        return 1;
     }
 
     free_image(out_image);
-    return 0;
+    return write_image_stat;
 }

@@ -10,11 +10,11 @@
 #define BMP_INFO_SIZE 40
 #define BMP_TYPE 19778
 
-static enum write_stat write_header(FILE *out_file, struct bmp_header *out_header);
+static enum write_stat write_header(FILE *const out_file, struct bmp_header *out_header);
 
-static enum write_stat write_all_pixels(FILE *out_file, struct image *out_image);
+static enum write_stat write_all_pixels(FILE *const out_file, struct image *out_image);
 
-static struct bmp_header create_bmp_header(struct image *out_image);
+static struct bmp_header create_bmp_header(struct image *const out_image);
 
 enum write_stat to_bmp(FILE *const out_file, struct image *const out_image) {
     struct bmp_header out_header = create_bmp_header(out_image);

@@ -8,7 +8,6 @@ enum read_stat from_bmp( FILE *const in_file, struct image *const in_image ) {
     if ( header_read_stat != READ_OK ) { return header_read_stat; }
     *in_image = create_image( in_header.biWidth, in_header.biHeight );
     enum read_stat pixels_read_stat = read_all_pixels( in_file, in_image );
-    if ( pixels_read_stat != READ_OK ) { free_image( *in_image ); }
     return pixels_read_stat;
 }
 
